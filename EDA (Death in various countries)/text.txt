@@ -1,0 +1,4 @@
+Simple EDA 💊🤓
+Python · Cause of Deaths around the World (Historical Data)
+Kaggle link
+https://www.kaggle.com/code/oklats/simple-eda/notebook
